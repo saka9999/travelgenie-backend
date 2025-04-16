@@ -3,4 +3,3 @@ services:
     name: travelgenie-backend
     env: docker
     dockerfilePath: ./Dockerfile
-    plan: free
